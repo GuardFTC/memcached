@@ -43,6 +43,7 @@
             <version>5.8.5</version>
         </dependency>
 
+        <!--单元测试依赖-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
