@@ -1,0 +1,6 @@
+#memcached??
+memcached:
+  address: 120.48.107.224:11211
+  poolSize: 10
+  opTimeout: 3000
+
