@@ -1,4 +1,4 @@
-package com.ftc.memcached_test.config;
+package com.ftc.memcachedtest.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

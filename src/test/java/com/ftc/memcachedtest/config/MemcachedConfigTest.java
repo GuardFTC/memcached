@@ -1,4 +1,4 @@
-package com.ftc.memcached_test.config;
+package com.ftc.memcachedtest.config;
 
 import cn.hutool.core.lang.Assert;
 import cn.hutool.core.util.ObjectUtil;
